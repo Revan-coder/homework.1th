@@ -1,0 +1,14 @@
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\bin\Debug\net8.0\subtraction.exe
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\bin\Debug\net8.0\subtraction.deps.json
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\bin\Debug\net8.0\subtraction.runtimeconfig.json
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\bin\Debug\net8.0\subtraction.dll
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\bin\Debug\net8.0\subtraction.pdb
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\obj\Debug\net8.0\subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\obj\Debug\net8.0\subtraction.AssemblyInfoInputs.cache
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\obj\Debug\net8.0\subtraction.AssemblyInfo.cs
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\obj\Debug\net8.0\subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\obj\Debug\net8.0\subtraction.dll
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\obj\Debug\net8.0\refint\subtraction.dll
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\obj\Debug\net8.0\subtraction.pdb
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\obj\Debug\net8.0\subtraction.genruntimeconfig.cache
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\subtraction\obj\Debug\net8.0\ref\subtraction.dll

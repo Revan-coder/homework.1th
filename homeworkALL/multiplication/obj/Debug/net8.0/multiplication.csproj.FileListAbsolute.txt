@@ -1,0 +1,14 @@
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\bin\Debug\net8.0\multiplication.exe
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\bin\Debug\net8.0\multiplication.deps.json
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\bin\Debug\net8.0\multiplication.runtimeconfig.json
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\bin\Debug\net8.0\multiplication.dll
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\bin\Debug\net8.0\multiplication.pdb
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\obj\Debug\net8.0\multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\obj\Debug\net8.0\multiplication.AssemblyInfoInputs.cache
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\obj\Debug\net8.0\multiplication.AssemblyInfo.cs
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\obj\Debug\net8.0\multiplication.csproj.CoreCompileInputs.cache
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\obj\Debug\net8.0\multiplication.dll
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\obj\Debug\net8.0\refint\multiplication.dll
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\obj\Debug\net8.0\multiplication.pdb
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\obj\Debug\net8.0\multiplication.genruntimeconfig.cache
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\HomeWork\31.07.2024\homework1\multiplication\obj\Debug\net8.0\ref\multiplication.dll

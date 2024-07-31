@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\HomeWork\\31.07.2024\\homework1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8969598E-C8F8-4CEC-97E3-CD33ACB87967}|datetime\\datetime.csproj|c:\\users\\revan\\onedrive\\resimler\\masa\u00FCst\u00FC\\c#\\homework\\31.07.2024\\homework1\\datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8969598E-C8F8-4CEC-97E3-CD33ACB87967}|datetime\\datetime.csproj|solutionrelative:datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04CA5E2-BEF5-4BE5-A424-D18FFE58B9AA}|homework\\homework.csproj|c:\\users\\revan\\onedrive\\resimler\\masa\u00FCst\u00FC\\c#\\homework\\31.07.2024\\homework1\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04CA5E2-BEF5-4BE5-A424-D18FFE58B9AA}|homework\\homework.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C0B6DE-E7E3-45DB-AD7B-D4C09DF4E7C4}|subtraction\\subtraction.csproj|c:\\users\\revan\\onedrive\\resimler\\masa\u00FCst\u00FC\\c#\\homework\\31.07.2024\\homework1\\subtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C0B6DE-E7E3-45DB-AD7B-D4C09DF4E7C4}|subtraction\\subtraction.csproj|solutionrelative:subtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B2ACEB-D49F-401E-96CF-B3A1CD55C0D6}|multiplication\\multiplication.csproj|c:\\users\\revan\\onedrive\\resimler\\masa\u00FCst\u00FC\\c#\\homework\\31.07.2024\\homework1\\multiplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B2ACEB-D49F-401E-96CF-B3A1CD55C0D6}|multiplication\\multiplication.csproj|solutionrelative:multiplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320BCFA9-216D-4AD1-94DA-A97EF7C42F3A}|division\\division.csproj|c:\\users\\revan\\onedrive\\resimler\\masa\u00FCst\u00FC\\c#\\homework\\31.07.2024\\homework1\\division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320BCFA9-216D-4AD1-94DA-A97EF7C42F3A}|division\\division.csproj|solutionrelative:division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\HomeWork\\31.07.2024\\homework1\\datetime\\Program.cs",
+              "RelativeDocumentMoniker": "datetime\\Program.cs",
+              "ToolTip": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\HomeWork\\31.07.2024\\homework1\\datetime\\Program.cs",
+              "RelativeToolTip": "datetime\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:49:52.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\HomeWork\\31.07.2024\\homework1\\division\\Program.cs",
+              "RelativeDocumentMoniker": "division\\Program.cs",
+              "ToolTip": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\HomeWork\\31.07.2024\\homework1\\division\\Program.cs",
+              "RelativeToolTip": "division\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:39:22.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\HomeWork\\31.07.2024\\homework1\\multiplication\\Program.cs",
+              "RelativeDocumentMoniker": "multiplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\HomeWork\\31.07.2024\\homework1\\multiplication\\Program.cs",
+              "RelativeToolTip": "multiplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:34:33.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\HomeWork\\31.07.2024\\homework1\\subtraction\\Program.cs",
+              "RelativeDocumentMoniker": "subtraction\\Program.cs",
+              "ToolTip": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\HomeWork\\31.07.2024\\homework1\\subtraction\\Program.cs",
+              "RelativeToolTip": "subtraction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:20:50.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\HomeWork\\31.07.2024\\homework1\\homework\\Program.cs",
+              "RelativeDocumentMoniker": "homework\\Program.cs",
+              "ToolTip": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\HomeWork\\31.07.2024\\homework1\\homework\\Program.cs",
+              "RelativeToolTip": "homework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:38:44.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
